@@ -1,9 +1,20 @@
+
+
+##  Foram utilizados: 
+```
+methods, computed, mapState, mapMutations, Actions, Getters
+```
+
+
 # gerenciando-estado-vuex
 
 ## Project setup
 ```
 npm install
 ```
+
+
+
 
 ### Compiles and hot-reloads for development
 ```
